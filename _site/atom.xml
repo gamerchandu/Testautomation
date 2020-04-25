@@ -4,7 +4,7 @@
  <title>Hello. I'm Chandra Shekhar.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-25T18:20:31+04:00</updated>
+ <updated>2020-04-25T18:51:42+04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Chandra Shekhar</name>
@@ -35,6 +35,15 @@
    <link href="http://localhost:4000/development/2020/04/24/TestAutomaion.html"/>
    <updated>2020-04-24T15:56:00+04:00</updated>
    <id>http://localhost:4000/development/2020/04/24/TestAutomaion</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GithubIO-Jekyll-Integration</title>
+   <link href="http://localhost:4000/development/2020/04/24/GithubIO-Jekyll-Integration.html"/>
+   <updated>2020-04-24T15:56:00+04:00</updated>
+   <id>http://localhost:4000/development/2020/04/24/GithubIO-Jekyll-Integration</id>
    <content type="html">
 </content>
  </entry>
