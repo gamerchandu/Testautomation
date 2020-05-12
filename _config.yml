@@ -17,7 +17,7 @@ title: "Hello. I'm Chandra Shekhar."
 email: 'chchandu123@gmail.com'
 description: "I'm an Automation developer from Hyderabad creating useful things for the testing community"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gamerchandu.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://github.com/gamerchandu/myautomation" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'gamerchandu'
 stackoverflow_username: 'users/2119289/chandra-shekhar'
 
