@@ -23,7 +23,7 @@ stackoverflow_username: 'users/2119289/chandra-shekhar'
 
 # Build settings
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
+theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
 
@@ -98,3 +98,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+  
